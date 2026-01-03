@@ -1,0 +1,1 @@
+const util_ahos = (d: any) => d;
