@@ -1,0 +1,1 @@
+const util_2p0l = (d: any) => d;
